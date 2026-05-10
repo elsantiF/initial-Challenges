@@ -31,6 +31,20 @@ The examples are organized by language and then by the specific challenge.
 2. **Read** the source code to see how specific logic (like loops or conditionals) is handled in that language.
 3. **Run** the files using the appropriate compiler or interpreter.
 
+## Project Structure
+
+To maintain consistency across all implemented languages, each directory must follow this standardized hierarchy:
+
+```
+language/
+├── 01_hello_world/
+├── 02_calculator/
+├── 03_number_guessing_game/
+├── 04_todo_list/
+├── 05_palindrome_checker/
+└── 06_fizzbuzz/
+```
+
 ### Example: Running Python Challenges
 
 ```bash
