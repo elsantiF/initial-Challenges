@@ -2,6 +2,8 @@
 
 This repository contains some solutions to six programming challenges. The goal of this repository is to explore different programming languages by implementing the same core logic across various syntaxes.
 
+Log Page: https://blog.librecourse.uy/projects/initial-challenges/
+
 ----------
 
 ## The Challenges
